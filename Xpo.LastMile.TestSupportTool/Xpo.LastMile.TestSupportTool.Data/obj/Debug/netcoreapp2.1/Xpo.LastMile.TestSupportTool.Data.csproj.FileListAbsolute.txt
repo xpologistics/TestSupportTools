@@ -1,0 +1,9 @@
+C:\XPO\TestSupportTools\Xpo.LastMile.TestSupportTool\Xpo.LastMile.TestSupportTool.Data\obj\Debug\netcoreapp2.1\Xpo.LastMile.TestSupportTool.Data.csprojAssemblyReference.cache
+C:\XPO\TestSupportTools\Xpo.LastMile.TestSupportTool\Xpo.LastMile.TestSupportTool.Data\obj\Debug\netcoreapp2.1\Xpo.LastMile.TestSupportTool.Data.csproj.CoreCompileInputs.cache
+C:\XPO\TestSupportTools\Xpo.LastMile.TestSupportTool\Xpo.LastMile.TestSupportTool.Data\obj\Debug\netcoreapp2.1\Xpo.LastMile.TestSupportTool.Data.AssemblyInfoInputs.cache
+C:\XPO\TestSupportTools\Xpo.LastMile.TestSupportTool\Xpo.LastMile.TestSupportTool.Data\obj\Debug\netcoreapp2.1\Xpo.LastMile.TestSupportTool.Data.AssemblyInfo.cs
+C:\XPO\TestSupportTools\Xpo.LastMile.TestSupportTool\Xpo.LastMile.TestSupportTool.Data\bin\Debug\netcoreapp2.1\Xpo.LastMile.TestSupportTool.Data.deps.json
+C:\XPO\TestSupportTools\Xpo.LastMile.TestSupportTool\Xpo.LastMile.TestSupportTool.Data\bin\Debug\netcoreapp2.1\Xpo.LastMile.TestSupportTool.Data.dll
+C:\XPO\TestSupportTools\Xpo.LastMile.TestSupportTool\Xpo.LastMile.TestSupportTool.Data\bin\Debug\netcoreapp2.1\Xpo.LastMile.TestSupportTool.Data.pdb
+C:\XPO\TestSupportTools\Xpo.LastMile.TestSupportTool\Xpo.LastMile.TestSupportTool.Data\obj\Debug\netcoreapp2.1\Xpo.LastMile.TestSupportTool.Data.dll
+C:\XPO\TestSupportTools\Xpo.LastMile.TestSupportTool\Xpo.LastMile.TestSupportTool.Data\obj\Debug\netcoreapp2.1\Xpo.LastMile.TestSupportTool.Data.pdb

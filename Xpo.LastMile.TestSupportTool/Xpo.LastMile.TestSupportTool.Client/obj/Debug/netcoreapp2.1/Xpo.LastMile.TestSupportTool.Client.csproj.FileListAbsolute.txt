@@ -12,3 +12,6 @@ C:\XPO\TestSupportTools\Xpo.LastMile.TestSupportTool\Xpo.LastMile.TestSupportToo
 C:\XPO\TestSupportTools\Xpo.LastMile.TestSupportTool\Xpo.LastMile.TestSupportTool.Client\bin\Debug\netcoreapp2.1\Xpo.LastMile.TestSupportTool.Client.pdb
 C:\XPO\TestSupportTools\Xpo.LastMile.TestSupportTool\Xpo.LastMile.TestSupportTool.Client\obj\Debug\netcoreapp2.1\Xpo.LastMile.TestSupportTool.Client.dll
 C:\XPO\TestSupportTools\Xpo.LastMile.TestSupportTool\Xpo.LastMile.TestSupportTool.Client\obj\Debug\netcoreapp2.1\Xpo.LastMile.TestSupportTool.Client.pdb
+C:\XPO\TestSupportTools\Xpo.LastMile.TestSupportTool\Xpo.LastMile.TestSupportTool.Client\bin\Debug\netcoreapp2.1\Xpo.LastMile.TestSupportTool.Data.dll
+C:\XPO\TestSupportTools\Xpo.LastMile.TestSupportTool\Xpo.LastMile.TestSupportTool.Client\bin\Debug\netcoreapp2.1\Xpo.LastMile.TestSupportTool.Data.pdb
+C:\XPO\TestSupportTools\Xpo.LastMile.TestSupportTool\Xpo.LastMile.TestSupportTool.Client\obj\Debug\netcoreapp2.1\Xpo.LastMile.TestSupportTool.Client.csproj.CopyComplete

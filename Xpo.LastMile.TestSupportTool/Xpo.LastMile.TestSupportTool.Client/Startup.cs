@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using Xpo.LastMile.TestSupportTool.Data;
 
 namespace Xpo.LastMile.TestSupportTool.Client
 {
@@ -26,6 +27,9 @@ namespace Xpo.LastMile.TestSupportTool.Client
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddSingleton(Configuration);
+            ConfigureDataLayerServices(services);
+            ConfigureQueryLayerServices(services);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -42,6 +46,20 @@ namespace Xpo.LastMile.TestSupportTool.Client
 
             app.UseHttpsRedirection();
             app.UseMvc();
+        }
+
+        private void ConfigureDataLayerServices(IServiceCollection services)
+        {
+            //services.AddTransient<IQuery, DbQuery>();
+            services.AddScoped<IRepository, Repository>();
+            //services.AddSingleton<DbConnection, DbConnection>();
+        }
+
+        private void ConfigureQueryLayerServices(IServiceCollection services)
+        {
+            //services.AddScoped<IQueryExecutor, QueryExecutor>();
+            //services.AddSingleton<IQueryStore, QueryStore>();
+            //services.AddScoped<ICommandExecutor, CommandExecutor>();
         }
     }
 }
